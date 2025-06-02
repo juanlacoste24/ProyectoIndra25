@@ -2,16 +2,16 @@ Proyecto FP: Portal para la Gestión de Eventos Sostenibles
 Descripción del Proyecto
 Este proyecto consiste en el desarrollo de un portal web destinado a la gestión de eventos relacionados con la sostenibilidad, como conferencias, talleres y actividades ecológicas. El objetivo es permitir a los usuarios registrarse y gestionar su participación en estos eventos de manera eficiente y automatizada.
 
-Índice-
-Planteamiento del Proyecto
-Tareas a Realizar
-Lenguaje de Marcas
-Base de Datos
-Programación
-Sistemas Informáticos
-Entornos de Desarrollo
-Evidencias y Estructura Recomendada
-Planteamiento del Proyecto
+-Índice
+   Planteamiento del Proyecto
+   Tareas a Realizar
+   Lenguaje de Marcas
+   Base de Datos
+   Programación
+   Sistemas Informáticos
+   Entornos de Desarrollo
+   Evidencias y Estructura Recomendada
+   Planteamiento del Proyecto
 
 
 El portal permitirá a los usuarios:
